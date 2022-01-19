@@ -8,7 +8,7 @@ This repo is intended to track my progress of the [Shopify Theme Development –
 |------------ | -------------
 |:heavy_check_mark: | Installing Development Tools
 |:heavy_check_mark: | Navigational Bar
-| | 404 Page
+|:heavy_check_mark: | 404 Page
 | | Article Page
 | | Blog Page
 | | Cart Page
